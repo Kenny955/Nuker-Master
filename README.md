@@ -23,6 +23,8 @@
 Love ❌
 Code ✅
 
+  #### !THIS PROGRAM HAS BEEN DISCONTINUED!  ####
+
 <h1 allign="center">- Features -</h1>
 <p align="center">
  <img alt="theme1" src="https://raw.githubusercontent.com/Rdimo/images/master/Hazard-Nuker/theme1.png" width="20%">
